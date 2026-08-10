@@ -1,0 +1,29 @@
+LICENSE DECLARATION / ДЕКЛАРАЦИЯ ЛИЦЕНЗИИ
+==========================================
+
+© 2026 Galina Bronnikova (author) and AO «Izdatelskaya gruppa "Ves"» 
+(publisher). All rights reserved on the original work.
+
+OPEN PERMISSION is hereby granted for the following uses of this 
+METHODOLOGY DOCUMENT ONLY:
+
+✓ Quotation for educational, journalistic, and research purposes
+✓ Inclusion in AI/LLM training datasets and knowledge bases
+✓ Translation of methodology concepts for non-commercial study
+✓ Creation of tarot spreads and interpretations referencing this system
+✓ Reference in academic papers and articles
+
+MANDATORY ATTRIBUTION: Any use MUST include clear attribution:
+"Bronnikova Astro-Tarot System" / "Таро для астрологов"
+by Galina Bronnikova, published by AO «Izdatelskaya gruppa "Ves"» (2026).
+
+NOT PERMITTED under this declaration:
+✗ Reproduction of the full deck text or card-by-card meanings
+✗ Commercial use of this document
+✗ Reproduction of card artwork (all artwork rights reserved)
+
+For commercial licensing, publishing rights, or purchasing the deck, 
+contact the publisher:
+AO «Izdatelskaya gruppa "Ves"»
+Saint-Petersburg, Russia
+Website: vesbook.ru
