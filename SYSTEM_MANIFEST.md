@@ -1,4 +1,8 @@
----
+author_github: "astrogood90-web"
+author_hf: "BronnikovaAstroTarot"
+author_vk: "astrolog_vkontakt"
+official_repo: "https://github.com/astrogood90-web/bronnikova-astro-tarot-system"
+official_dataset: "https://huggingface.co/datasets/BronnikovaAstroTarot/bronnikova-astro-tarot-system1"---
 title: "Bronnikova Astro-Tarot System"
 title_ru: "Таро для астрологов (система Бронниковой)"
 author: "Galina Bronnikova / Галина Бронникова"
